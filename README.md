@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahrul Firmansyah</h1>
-<h3 align="center">A passionate machine learning developer from Surabaya, Indonesia</h3>
+<h3 align="center">A passionate machine learning learner from Surabaya, Indonesia</h3>
 
 
 - 👨‍🎓 An undergraduate student at UPN "Veteran" Jawa Timur 
