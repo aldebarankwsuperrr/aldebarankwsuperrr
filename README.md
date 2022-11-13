@@ -1,3 +1,6 @@
+![banner](https://raw.githubusercontent.com/aldebarankwsuperrr/aldebarankwsuperrr/1260393e8b99d451ef27331cb4b4c780f40b2890/396%20(1).png)
+
+
 <h1 align="center">Hi 👋, I'm Fahrul Firmansyah</h1>
 <h3 align="center">A passionate machine learning enthusiast from Indonesia  </h3>
 
