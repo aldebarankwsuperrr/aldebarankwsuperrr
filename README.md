@@ -4,17 +4,10 @@
 <h1 align="center">Hi 👋, I'm Fahrul Firmansyah</h1>
 <h3 align="center">A passionate machine learning enthusiast from Indonesia  </h3>
 
-
-- 👨‍🎓 An undergraduate student at UPN "Veteran" Jawa Timur 
-  
-
-- 👨‍💻 I’m currently learning about artificial intelligence and web development   
+- 👨‍💻 I’m currently learning about artificial intelligence 
   
 
 - ❓ Ask me about anything related to machine learning and related technologies  
-  
-
-- ⚡ Fun fact: I used to hate web programming 
   
 
 ## 🌐 Socials:
